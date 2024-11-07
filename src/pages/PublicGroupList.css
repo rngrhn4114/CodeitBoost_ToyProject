@@ -1,0 +1,12 @@
+.groupCreate {
+  position: absolute;
+  top: 20px;     /* 상단 위치 */
+  right: 40px;   /* 오른쪽 위치 */
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 50px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}

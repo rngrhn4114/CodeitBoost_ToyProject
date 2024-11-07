@@ -1,0 +1,17 @@
+.title-logo {
+    height: 48px;
+    width: 137px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.container .groupCreate {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
